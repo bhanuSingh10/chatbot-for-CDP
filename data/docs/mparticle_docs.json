@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Creating User Profiles in mParticle",
+    "content": "\n                To create and manage user profiles in mParticle:\n                1. Implement identity management\n                2. Set up user attributes\n                3. Configure identity priority\n                4. Define user identity mapping\n                5. Enable cross-platform identity resolution\n                \n                Key concepts:\n                - Customer IDs\n                - Device IDs\n                - User attributes\n                - Identity resolution\n                ",
+    "url": "https://docs.mparticle.com/guides/idsync/"
+  }
+]

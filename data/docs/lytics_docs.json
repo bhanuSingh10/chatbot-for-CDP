@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Building Audience Segments in Lytics",
+    "content": "\n                To build an audience segment in Lytics:\n                1. Go to Audiences in your Lytics account\n                2. Click 'Create New Audience'\n                3. Define segment criteria using:\n                   - User behaviors\n                   - Profile attributes\n                   - Content affinities\n                4. Set audience rules and conditions\n                5. Save and activate your audience\n                \n                Best practices:\n                - Start with broad criteria\n                - Use behavioral data\n                - Test audience sizes\n                - Monitor audience growth\n                ",
+    "url": "https://docs.lytics.com/audiences/"
+  }
+]

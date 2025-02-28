@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Setting up Sources in Segment",
+    "content": "\n                To set up a new source in Segment:\n                1. Log in to your Segment workspace\n                2. Navigate to Connections > Sources\n                3. Click 'Add Source'\n                4. Choose your source type (Website, Mobile App, Server, etc.)\n                5. Follow the setup instructions for your specific source\n                6. Configure your source settings\n                7. Enable the source when ready\n                \n                Common source types:\n                - Analytics.js for websites\n                - Mobile SDKs for iOS/Android apps\n                - Server-side libraries\n                - Cloud sources for SaaS tools\n                ",
+    "url": "https://segment.com/docs/connections/sources/"
+  }
+]
