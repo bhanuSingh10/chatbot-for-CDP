@@ -35,20 +35,20 @@ Once the application is running, navigate to `http://localhost:8000` in your bro
 ## Screenshots
 
 1. **Zeotap**:
-   ![Home Page](/screenshots/zeotap.png)
+   ![Zeotap Page](/screenshots/zeotap.png)
    *Description*: Chat for Zeotap
 
 
 1. **mParticle**:
-   ![Home Page](/screenshots/mparticle.png)
+   ![mparticle Page](/screenshots/mparticle.png)
    *Description*: Chat for mParticle
 
 1. **Segment**:
-   ![Home Page](/screenshots/segment.png)
+   ![segment Page](/screenshots/segment.png)
    *Description*: Chat for segment
 
 1. **Lyctis**:
-   ![Home Page](/screenshots/lyctis.png)
+   ![lyctis Page](/screenshots/lyctis.png)
    *Description*: Chat for Lyctis
 
 
